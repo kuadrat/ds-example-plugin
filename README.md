@@ -1,4 +1,4 @@
-# ds_example_plugin
+# ds-example-plugin
 
 A plugin for [`data_slicer`'s](https://github.com/kuadrat/data-slicer) PIT 
 that simply serves as an example for how to make such a plugin.
